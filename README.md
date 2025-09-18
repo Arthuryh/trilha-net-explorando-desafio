@@ -18,4 +18,12 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código está completo, obedecendo as regras e validações propostas. Para executar:
+1. Abra o arquivo "trilha-net-explorando-desafio.sln"
+2. (Opcional) Modifique os parâmetros referente a suíte/hospedes no arquivo "Program.cs"
+3. Rode a solução, e veja o resultado.
+
+## Melhorias Futuras
+1. Menu iterativo com opções
+2. Cadastro dinamico de clientes
+3. Alteração das informações da suíte
